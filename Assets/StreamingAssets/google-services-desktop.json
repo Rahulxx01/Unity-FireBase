@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "794323908156",
+    "firebase_url": "https://vreal-624c0.firebaseio.com",
+    "project_id": "vreal-624c0",
+    "storage_bucket": "vreal-624c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794323908156:android:123ec745d508e522",
+        "android_client_info": {
+          "package_name": "com.vreal.sakec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794323908156-69pnf69mbr8tjcil77knrovo896ns9ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArNNlEToWbSXOT2hr7IAE4YsjQBb0EKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
